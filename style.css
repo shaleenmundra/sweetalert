@@ -1,0 +1,19 @@
+body{
+    font-family: 'Arial';
+    margin : 0;
+    padding: 0;
+
+}
+
+    .wrap{
+        margin:400px;
+    }
+    .btn-sweet{
+        background:#3498db;
+        border-radius:3px;
+        color:white;
+        height: 120px;
+        width: 400px;
+        font-size: 32px;
+        border: 0;
+    }
